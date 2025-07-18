@@ -1,0 +1,5 @@
+tpl=(1,2,3,4)
+print(tpl)
+print(tpl.index(3))
+print(tpl.count(3))
+print(tpl[1:3])
